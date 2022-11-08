@@ -2,10 +2,10 @@
     "armas": [
         {
             "id":1,
-            "arma": "Catana",
-            "linkima": "https://ftw.usatoday.com/wp-content/uploads/sites/90/2022/03/elden-ring-moonveil-katana.jpg?w=1000&h=600&crop=1",
-            "requicitos":"Requizitos: # Fuerza:0 # destreza:2",
-            "habilidades":"Genera sangrado"
+            "arma": "Rios de Sangre",
+            "linkima": "https://top-mmo.fr/wp-content/uploads/2022/03/elden-ring-rivers-of-blood-location.jpg",
+            "requicitos":"Requizitos: # Fuerza:12 # Destreza:18 # Arcano:20",
+            "habilidades":"Provoca la acumulación de hemorragias (66)"
         }
 ]
 }
