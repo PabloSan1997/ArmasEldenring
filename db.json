@@ -13,6 +13,13 @@
             "linkima": "https://gcdn.lanetaneta.com/wp-content/uploads/2022/03/Elden-Ring-Invader-interrumpe-el-comercio-de-armas-y-roba.jpeg",
             "requicitos":"Requizitos: # Fuerza:16 # Destreza:11 # Inteligencia:38",
             "habilidades":"Provoca la acumulación de congelación (55)."
+        },
+         {
+            "id":3,
+            "arma": "Aguijón de escorpión",
+            "linkima": "https://www.eliteguias.com/img/juegos/elden-ring/aguijon-de-escorpion.jpg",
+            "requicitos":"Requizitos: # Fuerza:6 # Destreza:12",
+            "habilidades":"Provoca la acumulación de putrefacción (50)."
         }
 ]
 }
