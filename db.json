@@ -6,6 +6,13 @@
             "linkima": "https://top-mmo.fr/wp-content/uploads/2022/03/elden-ring-rivers-of-blood-location.jpg",
             "requicitos":"Requizitos: # Fuerza:12 # Destreza:18 # Arcano:20",
             "habilidades":"Provoca la acumulación de hemorragias (66)"
+        },
+        {
+            "id":2,
+            "arma": "Espadon de la luna",
+            "linkima": "https://gcdn.lanetaneta.com/wp-content/uploads/2022/03/Elden-Ring-Invader-interrumpe-el-comercio-de-armas-y-roba.jpeg",
+            "requicitos":"Requizitos: # Fuerza:16 # Destreza:11 # Inteligencia:38",
+            "habilidades":"Provoca la acumulación de congelación (55)."
         }
 ]
 }
