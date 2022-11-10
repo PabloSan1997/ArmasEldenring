@@ -9,7 +9,7 @@
         },
         {
             "id":2,
-            "arma": "Espadón de la luna",
+            "arma": "Espadón de la luna negra",
             "linkima": "https://gcdn.lanetaneta.com/wp-content/uploads/2022/03/Elden-Ring-Invader-interrumpe-el-comercio-de-armas-y-roba.jpeg",
             "requicitos":"Requizitos: # Fuerza:16 # Destreza:11 # Inteligencia:38",
             "habilidades":"Provoca la acumulación de congelación (55)."
@@ -27,6 +27,13 @@
             "linkima": "https://gcdn.lanetaneta.com/wp-content/uploads/2022/04/Elden-Ring-Como-encontrar-y-usar-la-Nagakiba-Katana.jpeg",
             "requicitos":"Requizitos: # Fuerza:18 # Destreza:22",
             "habilidades":"Provoca la acumulación de hemorragia(44)."
+        },
+         {
+            "id":5,
+            "arma": "Espadón de gárgola",
+            "linkima": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eliteguias.com%2Fguias%2Fe%2Fer%2Felden-ring_armas-p186.php&psig=AOvVaw2wYZy8ONkLQ_JHrsxI3e0u&ust=1668190340005000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIiciLebpPsCFQAAAAAdAAAAABAE",
+            "requicitos":"Requizitos: # Fuerza:18 # Destreza:10",
+            "habilidades":"Mantén el arma en el aire para envolverla con un cortante vacío"
         }
 ]
 }
